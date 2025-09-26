@@ -1,35 +1,37 @@
-AdventureWorks Sales Dashboard
+# 📊 AdventureWorks Sales Dashboard  
 
-This project uses the AdventureWorks dataset (four CSV files) to build a relational data model in Power BI and design an interactive sales report in the Power BI Service (Office 365).
+This project leverages the **AdventureWorks dataset** (four CSV files) to build a relational data model in **Power BI Desktop** and design an interactive sales report in the **Power BI Service (Office 365)**.  
 
-📊 Key Features
-Data Modeling
+---
 
-Imported four datasets into Power BI Desktop.
+## 🔹 Key Features  
 
-Created relationships between tables (CustomerKey, ProductKey, TerritoryKey).
+### 🔗 Data Modeling  
+- Imported **four datasets** into Power BI Desktop.  
+- Built relationships between tables:  
+  - `CustomerKey → CustomerKey`  
+  - `ProductKey → ProductKey`  
+  - `TerritoryKey → SalesTerritoryKey`  
+- Published the data model to **Power BI Service (My Workspace)** as a **semantic model**.  
 
-Published the model to Power BI Service (My Workspace) as a semantic model.
+### 📈 Report Development  
+- Created a new report in Power BI Service using the published semantic model.  
+- Designed visuals to highlight **sales and customer insights**.  
+- Applied consistent formatting and layout for professional readability.  
+- Added personalized text elements (e.g., report title with author name).  
 
-Report Development
+---
 
-Built a new report in Power BI Service using the published semantic model.
+## 🛠 Skills Demonstrated  
+- Data modeling & relationship building in Power BI  
+- Publishing and managing semantic models in Power BI Service  
+- Cloud-based report creation and sharing  
+- Visual storytelling & dashboard design best practices  
 
-Designed visuals to highlight sales and customer insights (mirroring provided design mockups).
+---
 
-Customized formatting and layout for clarity and professional presentation.
+## 📷 Dashboard Preview  
 
-Added dynamic text elements (e.g., name personalization).
+<img width="1662" height="760" alt="image" src="https://github.com/user-attachments/assets/d40681fd-a8ac-4209-a200-c21db414cb0f" />
 
-🛠 Skills Demonstrated
-
-Data modeling & relationships in Power BI
-
-Publishing semantic models to Power BI Service
-
-Report creation directly in the cloud environment
-
-Visual storytelling with clean design & formatting
-
-📷 Dashboard Preview
-![alt text](image.png)
+---
